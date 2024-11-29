@@ -1,0 +1,3 @@
+Archivo de prueba para transferencia.
+Curso: Redes de Computadoras 2024-2
+Ejemplo de transferencia de archivo
